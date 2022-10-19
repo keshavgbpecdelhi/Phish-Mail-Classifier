@@ -25,4 +25,4 @@ The scope of this research is phishing emails detection, where features are extr
 For the limitation, this research will not cover the phishing websites, moreover the experiments will not cover all the available classification algorithms. However, this study will evaluate experimentally the most well-known algorithms.
 
 ## Workflow
-![Project Status](Workflow.jpg)
+![Project Status](workflow.jpg)
