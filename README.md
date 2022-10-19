@@ -1,18 +1,22 @@
-# Identify-Phishing-Mail
+# Phishing Email Detection
 
-![Project Status](https://img.shields.io/badge/status-Done-00ff)
+![Project Status](https://img.shields.io/badge/status-active-orange)
 
 
-This reasearch project aims to conduct a comparative assessment between various classification algorithms techniques, and various features. Moreover, the goal includes the development of multi-classifier integration model by combining more than one classification technique to enhance detection and protecting against phishing emails.
+Emails are a popular form of communication for both personal and business purposes. Sensitive and private information, such as banking details, credit reports, login information, etc., is frequently sent by email. Because of this, they are important to cybercriminals who might misuse the data. Phishing is a technique used by con artists to trick people into giving up sensitive information by seeming to come from reliable sources. 
+
+In a phished email, the sender can trick the victim into giving up personal information so we have to be aware of that. This project aims to solve this problem. It will help in detecting the phishing email and henceforth the upcoming troubles after giving up your personal information to them.
+
 
 ## Objective
 
-The objectives of this research are as follows:
+The following are the project's objectives :
+- Using manual feature selection based on email structure, identify and assess the ideal collection of features to be used for phishing Email detection.
+- To choose the most effective classifier for phishing detection.
+- To optimize the performance of the classification algorithm.
+- Create a system that combines various classification methods for phishing email detection and assess how well it works.
+- Evaluate each model's performance metrics.
 
-- Determine and evaluate the best set of features to be used for phishing Emails detection using Manual feature selection based on the email structure.
-- To determine the best classification algorithm for phishing detection.
-- To fine tune the classification algorithm for best performance.
-- Design a system which integrate multiple classification algorithms for phishing emails detection and to evaluate such integration.
 
 ## Scope and Limitation
 
@@ -21,4 +25,4 @@ The scope of this research is phishing emails detection, where features are extr
 For the limitation, this research will not cover the phishing websites, moreover the experiments will not cover all the available classification algorithms. However, this study will evaluate experimentally the most well-known algorithms.
 
 ## Workflow
-![Project Status](./resources/images/Workflow.jpg)
+![Project Status](Workflow.jpg)
